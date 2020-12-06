@@ -1,2 +1,5 @@
 # hello-world
-just to get through tutorial
+
+Hello
+
+Just starting to understand the basics.
